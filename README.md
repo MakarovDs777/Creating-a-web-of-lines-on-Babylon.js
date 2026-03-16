@@ -6,4 +6,4 @@
 
 [Creating a web of lines (Version 2 - A web of lines from ball to ball with the closure of a network of lines) | Babylon.js Playground](https://playground.babylonjs.com/#09VJYT#1)
 
-[Creating a web of lines(Version 3- A web of lines from ball to ball with the closure of a network of lines+Window balls) | Babylon.js Playground](https://playground.babylonjs.com/#HL7XB3)
+[Creating a web of lines(Version 3- A web of lines from ball to ball with the closure of a network of lines+Window balls) | Babylon.js Playground](https://playground.babylonjs.com/#HL7XB3#1)
