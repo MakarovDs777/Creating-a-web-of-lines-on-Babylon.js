@@ -10,4 +10,4 @@
 
 [Creating a web of lines (Version 4 - Movement of symbols along closed contours of lines) | Babylon.js Playground](https://playground.babylonjs.com/#WFSCL4#3)
 
-[Creating a web of lines (Version 5 - Movement of symbols along closed contours of lines XYZ) | Babylon.js Playground](https://playground.babylonjs.com/#ASSSHW#2)
+[Creating a web of lines (Version 5 - Movement of symbols along closed contours of lines XYZ) | Babylon.js Playground](https://playground.babylonjs.com/#ASSSHW#3)
